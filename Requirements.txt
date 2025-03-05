@@ -1,0 +1,7 @@
+google-search-results
+openai
+streamlit
+serpapi
+Python 3.x
+Streamlit
+Pandas
